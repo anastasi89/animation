@@ -10,4 +10,3 @@ collapseBtn.addEventListener('click', () => {
   collapseCont.style.height = '200px';
   collapseCont.classList.add('open');
 });
-
